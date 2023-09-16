@@ -36,6 +36,7 @@ def quantum_multiplication(multiplicand, multiplier):
   # Combine the two circuits.
   circuit += qft_circuit
 =======
+# Can you explain line # 40? what is it for ">>>>>>> pr/17:quantum_multiplication_v2.py"? This line I am talking about.
 >>>>>>> pr/17:quantum_multiplication_v2.py
 
   # Create the QFT multiplication circuit.
